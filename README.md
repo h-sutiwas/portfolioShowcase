@@ -1,6 +1,6 @@
 # Data Analyst
 
-#### Technical Skills: Python, R, SQL(SSMS), Tableau, Power BI
+#### Technical Skills: Python, R, Microsoft SQL Server, Tableau, Power BI, AutoCAD, Civil 3D
 
 ## Education
 B.E., Civil Engineering | Chulalongkorn University (_July 2020_ - _June 2024_)
