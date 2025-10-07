@@ -8,9 +8,13 @@
 B.E., Civil Engineering | Chulalongkorn University (_July 2020_ - _June 2024_)
 
 ## Work Experience
-**Part-time Research Assistant (_May 2024_ - _May 2025_)**
+**Part-time Research Assistant HTOC (_May 2024_ - _May 2025_)**
 - Conducted data cleansing and data imputation as preprocessing steps for traffic sensor data before performing clustering analysis using **Python**.
 - Utilize **R** **Affinity Propagation** model with Negative Euclidean function and Normalized Correlation as similarity matrices for traffic pattern clustering and report in cluster of sensor points.
+
+**Part-time Research Assistant EGAT (_Sept 2025_ - _Present_)**
+- Applying QGIS for extracting nodes and links of Thailand primary and secondary roads to process through the shortest path analysis.
+- .
 
 ## Projects
 ### University Senior Project : Development of Activity Inference Model by Machine Learning Method
